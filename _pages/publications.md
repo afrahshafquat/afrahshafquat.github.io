@@ -11,10 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+ -->
 * **Afrah Shafquat**, Ronald G. Crystal, Jason G. Mezey [Identifying novel associations in GWAS by hierarchical Bayesian latent variable detection of differentially misclassified phenotypes](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3387-z) <i>BMC Bioinformatics</i> (2020)
 
 * Fumihiro Ogawa, Matthew S Walters, **Afrah Shafquat**, Sarah L O’Beirne, Robert J Kaner, Jason G Mezey, Haijun Zhang, Philip L Leopold, Ronald G Crystal [Role of KRAS in regulating normal human airway basal cell differentiation](https://link.springer.com/article/10.1186/s12931-019-1129-4) <i>Respiratory Research</i> (2019)
