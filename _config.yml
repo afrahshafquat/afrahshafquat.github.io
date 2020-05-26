@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Afrah Shafquat"
   avatar           : "profile.png"
-  bio              : "Computational "
+  bio              : "Computational Biologist | Data Scientist"
   location         : "New York, NY"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=afrah+shafquat"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "http://github.com/afrahshafquat"
+  github           : "afrahshafquat"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/afrahshafquat/"
+  linkedin         : "afrahshafquat"
   orcid            : "https://orcid.org/0000-0002-2572-5521"
   pinterest        :
   soundcloud       :
