@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Find the updated version of my resume [here](http://academicpages.github.io/files/Shafquat_Afrah_2020.pdf)
+Find the updated version of my resume [here](http://afrahshafquat.github.io/files/Shafquat_Afrah_2020.pdf)
 
 <!-- Education
 ======
